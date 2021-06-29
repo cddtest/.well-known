@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.mycompany.app1",
+    "package_name": "com.panasonic.cdd.softapi_androidapplinktest",
     "sha256_cert_fingerprints":
-    ["14:6D:E9:83:C5:73:06:50:D8:EE:B9:95:2F:34:FC:64:16:A0:83:42:E6:1D:BE:A8:8A:04:96:B2:3F:CF:44:E5"]
+    ["CB:F3:39:0B:FD:36:CF:E7:AA:F7:41:DE:BE:E4:D7:1B:14:9A:62:96:A2:FB:57:5C:1F:A4:93:99:5D:6E:C8:4C"]
   }
 }]
